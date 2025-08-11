@@ -1,4 +1,4 @@
-BS23 Chess Game is a feature-rich chess application built with [Python + Pygame].
+♟️BS23 Chess Game is a feature-rich chess application built with [Python + Pygame].
 It supports human vs. AI with the AI powered by a depth-adjustable search algorithm and alpha–beta pruning for efficient move calculation.
 
 Key highlights:
